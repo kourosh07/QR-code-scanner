@@ -19,3 +19,7 @@ Check out the demo below to see the QR Code Scanner in action:
 1. **Clone the repository**:
    ```bash
    git clone https://github.com/kourosh07/QR-code-scanner.git
+
+##
+
+### Best Regards :heart:
